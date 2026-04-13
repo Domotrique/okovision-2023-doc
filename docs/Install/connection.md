@@ -18,7 +18,7 @@ Go to **Main Menu → General → IP Config** to find your boiler's IP address.
  
 ![IP Config](https://github.com/Domotrique/okovision_2023/assets/148430940/9f51dd77-7566-4a95-b899-fa7010410d5b)
  
-You can also check or retrieve your Okofen app credentials (for remote access) from this same menu.
+> 💡 **Another Tip**: You can also check or retrieve your Okofen app credentials (for remote access) from this same menu.
  
 ## Check HTTP access
  

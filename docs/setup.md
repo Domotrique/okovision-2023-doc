@@ -1,6 +1,6 @@
 ---
-sidebar_position: 3
-sidebar_label: Setup
+sidebar_position: 2
+sidebar_label: Parameters
 ---
 # Setup
 You can access the setup when you are logged in as administrator and then select the gear icon in the menu bar.
@@ -114,3 +114,11 @@ In case of a new release you will be able to install it from here.
 You will also find your API token that can be used for doing API calls. See dedicated documentation here.
 
 ![About](../static/img/About.png)
+
+## Real Time
+
+In the real time page you can connect directly to your boiler and get real time graphs.
+
+You will need to connect with your [Boiler's ID and password](connection#find-the-ip-address).
+
+![Realtime](../static/img/Realtime.png)

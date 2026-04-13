@@ -79,14 +79,14 @@ const config = {
           {
             type: 'doc',
             position: 'left',
-            docId: 'installation',
+            docId: 'Install/installation',
             label: 'Installation',
           },
           {
             type: 'doc',
             position: 'left',
-            docId: 'connection',
-            label: 'Boiler Setup',
+            docId: 'setup',
+            label: 'Parameters',
           },
           {
             href: 'https://github.com/Domotrique/okovision_2023',
